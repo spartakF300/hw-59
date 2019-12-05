@@ -1,0 +1,11 @@
+.jokes{
+    text-align: center;
+    padding: 20px;
+    border: 1px solid black ;
+}
+.jokesWrap{
+    text-align: center;
+    width: 600px;
+    padding: 30px;
+    margin: 0 auto;
+}

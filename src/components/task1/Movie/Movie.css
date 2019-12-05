@@ -1,0 +1,13 @@
+.movieWrap{
+   border: 1px solid black;
+    min-height: 100px;
+}
+.movie{
+    width: 83%;
+    height: 30px;
+    margin: 10px;
+    padding: 0 10px
+}
+.btn{
+    font-size: 21px;
+}
